@@ -8,7 +8,7 @@ dir = 0;
 spd = 5.5;
 xspd = 0;
 yspd = 0;
-damage = 1;
+damage = 500;
 
 //cleanup
 dirFix = false;
